@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Wave.dir/src/wave.cpp.o CMakeFiles/Wave.dir/src/main.cpp.o  -o Wave ../liboops.a 

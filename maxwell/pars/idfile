@@ -1,0 +1,6 @@
+[Maxwell]
+xmin = -10.0
+xmax = 10.0
+npoints 101
+tmax = 20.0
+output_frequency = 5
